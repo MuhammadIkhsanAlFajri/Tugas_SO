@@ -1,0 +1,8 @@
+Dengan menggunakan nano p1.sh
+dan menggetikan seperti yang bapak kirimkan
+
+#!/bin/bash
+echo "Program p1"
+ls -l
+
+maka hasilnya dia memunculkan history dari yang kita buka
