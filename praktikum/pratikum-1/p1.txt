@@ -1,0 +1,26 @@
+PRAKTIKUM 1
+PEMBUATAN SHELL SCRIPT
+
+Langkah Praktikum:
+
+1. Membuat file menggunakan Nano:
+
+   nano p1.sh
+
+2. Memasukkan kode program:
+
+   #!/bin/bash
+   echo "Program p1"
+   ls -l
+
+3. Menjalankan program:
+
+   bash p1.sh
+
+Hasil yang Diharapkan:
+
+- Menampilkan pesan "Program p1".
+- Menampilkan daftar file dan direktori menggunakan perintah ls -l.
+
+Catatan:
+Perintah ls -l menampilkan daftar file dan direktori beserta informasi detailnya, bukan riwayat perintah terminal.
